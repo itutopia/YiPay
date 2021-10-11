@@ -1,7 +1,8 @@
 # YiPay
 
 <p align="center">
-	<strong>YiPay,亿支付,让支付更省心一点</strong>
+	<strong>YiPay</strong>
+	<strong>亿支付,让支付更省心一点</strong>
 </p>
 
 [YiPay,亿支付,让支付更省心一点](https://github.com/itutopia/YiPay/)
